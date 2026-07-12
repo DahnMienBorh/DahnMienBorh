@@ -1,6 +1,6 @@
 # Dahn Mien Borh
 
-Operator builder. I run BORH, an operational intelligence company, on an AI-native system.
+I run BORH, an operational intelligence company, on an AI-native system.
 
 ## The story
 
