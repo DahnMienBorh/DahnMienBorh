@@ -2,13 +2,13 @@
 
 **Operational Intelligence**
 
-I design systems that help organizations carry context forward, improve decisions over time, and build operational capacity that compounds.
+I design AI-native operational systems that preserve context, support better decisions, and help organizations continuously improve how work gets done.
 
 ## The story
 
 I spent eight years in AV integration, on the operations side of engineering. I managed cross-functional teams of sixteen-plus people and owned the standards, workflows, governance, QA, and tooling that kept projects moving. In January 2026 I was laid off.
 
-By the end of my tenure my work was already moving toward AI, and the transition gave me the opportunity to explore that direction full time. What started as workflow improvements became something broader, designing operational intelligence. Today BORH is where I build the systems I believe organizations will need as work continues to change, systems that remember, coordinate, adapt, and help people focus on the work that matters most.
+By the end of my tenure my work was already moving toward AI, and the transition gave me the opportunity to explore that direction full time. What started as workflow improvements became something broader, designing operational intelligence. Today BORH is where I explore what the next generation of organizational operations can look like, systems that remember, coordinate, adapt, and help people focus on the work that matters most.
 
 I'm still learning, happily. Agentic systems are where I've done my deepest work, and the systems below run every day.
 
@@ -36,7 +36,7 @@ AI didn't change what I work on. It changed what that layer can finally do.
 
 Today I'm building BORH around a simple idea.
 
-Organizations already have people, knowledge, processes, and systems. Operational Intelligence helps those pieces work together more effectively by preserving context, supporting better decisions, and continuously improving how work moves through the business.
+Organizations already have people, knowledge, processes, and systems. Operational Intelligence combines organizational knowledge with AI-native systems that preserve context, strengthen decision-making, and help work improve continuously over time.
 
 That's the work I'm most interested in.
 
