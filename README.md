@@ -1,18 +1,20 @@
 # Dahn Mien Borh
 
-I run BORH, an operational intelligence company, on an AI-native system.
+**Operational Intelligence**
+
+I design systems that help organizations carry context forward, improve decisions over time, and build operational capacity that compounds.
 
 ## The story
 
 I spent eight years in AV integration, on the operations side of engineering. I managed cross-functional teams of sixteen-plus people and owned the standards, workflows, governance, QA, and tooling that kept projects moving. In January 2026 I was laid off.
 
-By the end of my tenure my work was already moving toward AI, and the transition gave me the chance to pursue it full force. What comes naturally to me is solving problems, and AI is the best tool for that work I have ever used. So I started BORH, a company built to close operational gaps, streamline the work, and help businesses run smarter. I've been building and shipping ever since, and I operate everything I build inside my own company every day.
+By the end of my tenure my work was already moving toward AI, and the transition gave me the opportunity to explore that direction full time. What started as workflow improvements became something broader, designing operational intelligence. Today BORH is where I build the systems I wish every organization had, systems that remember, coordinate, adapt, and help people focus on the work that matters most.
 
 I'm still learning, happily. Agentic systems are where I've done my deepest work, and the systems below run every day.
 
 ## What I've built
 
-These run today.
+Every system below exists because I encountered the operational problem firsthand. They began as practical solutions and continue to evolve through daily use inside BORH.
 
 **An operational memory system.** A 22-table Postgres store with six retrieval lanes, an entity graph, and human-governed writebacks. My systems remember decisions, clients, corrections, and context across months of work, and everything they recall traces back to its source.
 
@@ -32,11 +34,14 @@ AI didn't change what I work on. It changed what that layer can finally do.
 
 ## Now
 
-I'm building BORH, operational intelligence that makes the operations a business already has smarter, with no forced platform change.
+Today I'm building BORH around a simple idea.
 
-And I'm excited about the right seat at the right company. If you put builders next to real customers (forward-deployed, solutions engineering, AI operations), or you're serious about AI in the built environment where I've spent my career, I'd love to talk. What matters to me is efficiency and delivery. Real work, taken from demo to daily operations, done well.
+Organizations already have people, knowledge, processes, and systems. Operational Intelligence helps those pieces work together more effectively by preserving context, supporting better decisions, and continuously improving how work moves through the business.
+
+That's the work I'm most interested in.
+
+I'm looking for environments where operational thinking is valued, places where solving the right problem matters as much as building the right solution. Whether that's inside an engineering organization, an AI platform team, or alongside customers, I enjoy turning complex operational challenges into systems that people actually use.
 
 ## Contact
 
 mien@borh.ai · [borh.ai](https://borh.ai) · [LinkedIn](https://linkedin.com/in/dahnborh)
-
