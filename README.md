@@ -8,7 +8,7 @@ I design systems that help organizations carry context forward, improve decision
 
 I spent eight years in AV integration, on the operations side of engineering. I managed cross-functional teams of sixteen-plus people and owned the standards, workflows, governance, QA, and tooling that kept projects moving. In January 2026 I was laid off.
 
-By the end of my tenure my work was already moving toward AI, and the transition gave me the opportunity to explore that direction full time. What started as workflow improvements became something broader, designing operational intelligence. Today BORH is where I build the systems I wish every organization had, systems that remember, coordinate, adapt, and help people focus on the work that matters most.
+By the end of my tenure my work was already moving toward AI, and the transition gave me the opportunity to explore that direction full time. What started as workflow improvements became something broader, designing operational intelligence. Today BORH is where I build the systems I believe organizations will need as work continues to change, systems that remember, coordinate, adapt, and help people focus on the work that matters most.
 
 I'm still learning, happily. Agentic systems are where I've done my deepest work, and the systems below run every day.
 
