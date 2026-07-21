@@ -2,7 +2,7 @@
 
 **Operational Intelligence**
 
-I design AI-native operational systems that preserve context, support better decisions, and help organizations continuously improve how work gets done.
+I design AI-native operational capabilities that preserve context, support better decisions, and help organizations continuously improve how work gets done.
 
 ## The story
 
@@ -28,9 +28,9 @@ Writeups, architecture diagrams, and a demo film are collecting in a portfolio r
 
 ## Background
 
-Eight years in AV integration taught me how work actually breaks. It's almost never the tools. It's lost context, unclear handoffs, repetitive work nobody owns, and knowledge that never reaches the right person at the right time. I helped build the standards, QA systems, and internal tooling that held engineering teams together, and over time I got more interested in the layer behind the work, in how information moves, how decisions get surfaced, and where things quietly fall apart.
+Eight years in AV integration taught me how work actually breaks. It's almost never the tools. It's lost context, unclear handoffs, repetitive work nobody owns, and knowledge that never reaches the right person at the right time. I helped build the standards, QA systems, and internal tooling that held engineering teams together, including automation that cut a 30-minute QA process to under two minutes, and over time I got more interested in the layer behind the work, in how information moves, how decisions get surfaced, and where things quietly fall apart.
 
-AI didn't change what I work on. It changed what that layer can finally do.
+Agentic systems are the first tools I've ever used that truly match those problems.
 
 ## Now
 
@@ -40,7 +40,7 @@ Organizations already have people, knowledge, processes, and systems. Operationa
 
 That's the work I'm most interested in.
 
-I'm looking for environments where operational thinking is valued, places where solving the right problem matters as much as building the right solution. Whether that's inside an engineering organization, an AI platform team, or alongside customers, I enjoy turning complex operational challenges into systems that people actually use.
+BORH taught me what operational intelligence takes to build. Now I want to build it with a team and real customers, in forward-deployed and solutions engineering work, or in applied AI for the built environment where I've spent my career. What matters to me is efficiency and delivery. Real work, taken from demo to daily operations, done well.
 
 ## Contact
 
