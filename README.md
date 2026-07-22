@@ -28,9 +28,9 @@ Writeups, architecture diagrams, and a demo film are collecting in a portfolio r
 
 ## Background
 
-Eight years in AV integration showed me where work actually strains. It's rarely the technology. It's many teams and many ways of operating that don't naturally align, and that's where the real pain points live. I helped build the standards, QA systems, and internal tooling that kept projects moving, and over time I naturally gravitated toward the layer behind the work, where bottlenecks form and things quietly fall apart.
+Eight years in AV integration showed me where work actually strains. It's many teams and many ways of operating that don't naturally align, and that's where the real pain points live. I helped build the standards, QA systems, and internal tooling that kept projects moving, and over time I naturally gravitated toward the layer behind the work, where bottlenecks form and things quietly fall apart.
 
-AI didn't change what I work on. It changed what that layer can finally do.
+Agentic systems change the equation. Teams, tools, and knowledge can speak the same language now.
 
 ## Now
 
@@ -40,7 +40,7 @@ Organizations already have people, knowledge, processes, and systems. Operationa
 
 That's the work I'm most interested in.
 
-I'm looking for environments where operational thinking is valued, places where solving the right problem matters as much as building the right solution. Whether that's inside an engineering organization, an AI platform team, or alongside customers, I enjoy turning complex operational challenges into systems that people actually use.
+BORH is where I built operational intelligence and run it for real clients. I'd welcome the right seat in an environment where operational thinking is valued, where solving the right problem matters as much as building the right solution, and the chance to do that work at scale with a strong team, in forward-deployed and solutions engineering, or in applied AI for the built environment where I've spent my career.
 
 ## Contact
 
