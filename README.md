@@ -28,7 +28,7 @@ Writeups, architecture diagrams, and a demo film are collecting in a portfolio r
 
 ## Background
 
-Eight years in AV integration taught me how work actually breaks. It's almost never the tools. It's lost context, unclear handoffs, repetitive work nobody owns, and knowledge that never reaches the right person at the right time. I helped build the standards, QA systems, and internal tooling that held engineering teams together, and over time I got more interested in the layer behind the work, in how information moves, how decisions get surfaced, and where things quietly fall apart.
+Eight years in AV integration showed me where work actually strains. It's rarely the technology. It's many teams and many ways of operating that don't naturally align, and that's where the real pain points live. I helped build the standards, QA systems, and internal tooling that kept projects moving, and over time I naturally gravitated toward the layer behind the work, where bottlenecks form and things quietly fall apart.
 
 AI didn't change what I work on. It changed what that layer can finally do.
 
