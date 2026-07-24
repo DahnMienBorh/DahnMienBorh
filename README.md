@@ -24,7 +24,7 @@ Every system below exists because I encountered the operational problem firsthan
 
 **An AI engineering pipeline for the built environment, intake to delivery.** It reads a construction RFP end to end, extracts the bill of materials, matches every line against a Revit family library, and checks the documents against each other and against the project's own record, including what was said in meetings. On a real public RFP it surfaced seven discrepancies inside the documents themselves. Once the narrative is approved, the pipeline drives Revit itself by script: the specified equipment is placed in the model and documentation views render without a human at the keyboard. Clash detection, QC plots, and engineer-ready submittal packages are the stages in build now. The same operational memory that runs my company runs the pipeline, so a requirement raised on a kickoff call is still enforced weeks later at review.
 
-Writeups, architecture diagrams, and a demo film are collecting in a portfolio repo; link lands here soon. The systems themselves run private for now.
+A public demonstration is live: the [Meridian Conservatory kit](https://github.com/DahnMienBorh/meridian-conservatory), a complete interactive proposal kit for a fictional institution. Deeper writeups and a demo film are next; the client systems themselves run private.
 
 ## Background
 
