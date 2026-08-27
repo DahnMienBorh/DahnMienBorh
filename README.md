@@ -4,7 +4,7 @@
 
 I build and operate production agentic AI systems. A governed runtime in Python and FastAPI, operational memory on Postgres and pgvector, evaluation gates that score every answer before it ships, and MCP servers exposing governed tools. All of it helps run my company daily.
 
-Eight years in engineering operations before this. The work lives in forward deployed and solutions engineering, close to the customer.
+Eight years in engineering operations before this.
 
 Start here: [governed-agent-runtime](https://github.com/DahnMienBorh/governed-agent-runtime), a runnable public slice of the production system, with its eval harness and approval gate.
 
@@ -36,7 +36,7 @@ A public demonstration is live: the [Meridian Conservatory kit](https://github.c
 
 BORH is built on a simple idea. Organizations already have the people, knowledge, and systems, and AI-native tooling can help them keep context, make better decisions, and improve how work gets done over time.
 
-BORH is where I built that and run it for client engagements. The work sits where forward deployed and solutions engineering meet applied AI for the built environment, close to the customer, where solving the right problem matters as much as building the right solution.
+BORH is where I built that and run it for client engagements. I'd welcome the right seat in an environment where operational thinking is valued, where solving the right problem matters as much as building the right solution, and the chance to do that work at scale with a strong team, in forward deployed and solutions engineering, or in applied AI for the built environment where I've spent my career.
 
 ## Contact
 
